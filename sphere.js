@@ -1,4 +1,4 @@
-// tom.hetmer.cz 2013
+// tom.hetmer.net 2013
 var camera, scene, renderer, texture;
 var geometry, material, mesh;
 var projector;
