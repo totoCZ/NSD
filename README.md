@@ -3,5 +3,5 @@ NSD
 
 Big flying head.
 
-http://nsd.hetmer.net
+http://nsd.hetmer.cz
 ----
